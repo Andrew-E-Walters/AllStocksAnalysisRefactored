@@ -24,7 +24,7 @@ When we ran the code we refactored the code ran for 0.2617188 seconds in the yea
 ![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2017.png)
 
 When we ran the All Stocks Analysis for the module, the texbox displayed that the code ran for 0.703125 seconds for the year 2018.
-![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2018.png)
+![2018 Original](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/All_Stocks_Analysis_2018.png)
 When we ran the code we refactored the code ran for XXX seconds in the year 2018
 ![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2018.png)
 
