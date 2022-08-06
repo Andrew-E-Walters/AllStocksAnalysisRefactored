@@ -18,14 +18,19 @@ There were some results that came with this updated code as well as some Advanta
 
 ### Results 
 When we ran the All Stocks Analysis for the module, the texbox displayed that the code ran for 0.60015625 seconds for the year 2017. 
+
 ![2017 Original](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/All_Stocks_Analysis_2017.png)
 
 When we ran the code we refactored the code ran for 0.2617188 seconds in the year 2017.
+
 ![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2017.png)
 
-When we ran the All Stocks Analysis for the module, the texbox displayed that the code ran for 0.703125 seconds for the year 2018.
+When we ran the All Stocks Analysis for the module, the texbox displayed that the code ran for 0.703125 seconds for the year 2018.\
+
 ![2018 Original](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/All_Stocks_Analysis_2018.png)
+
 When we ran the code we refactored the code ran for 0.1171875 seconds in the year 2018
+
 ![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2018.png)
 
 
