@@ -8,7 +8,7 @@ The analysis was conducted by pulling together data from the stocks tab. We were
 ### Analysis of Code
 Initally the code looks similar to what we had created through the module. Though we will have to make some adjustments. We can see from the begining that the code is incomplete and we will have to fill in some sections to get it to work.  
 #### Below is the initial code
-![Starting Code]() 
+![Starting Code](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/Original_Code.png) 
 ### Changes of Inital Code
 We had to create a tickerIndex variable and set it equal to zero. We then can use the tickerIndex to access the correct index across the different arrays. THe three output arrays tickerVolumes, tickerStartingPrices, and tickerEndingPrices had to be created. We then needed to ensure that they were the right data types. After that we had to create for loops to set the tickerVolumes to zero, and another for loop to loop over all rows in the spreadsheet. We then had to increase the current tickerVolumes by using the tickerIndex variable as the index. The next step was to create a series of if-then statments to get the startingPrices and endingPrices. Once we have that infromation we are good to increase the tickerIndex. Finally we use a for loop to loop through our arrays and output the Ticker, Total Daily Volume, and Return columns in the spreadsheet we are using to view the results. 
 ![Final Code]()
