@@ -23,6 +23,11 @@ When we ran the All Stocks Analysis for the module, the texbox displayed that th
 When we ran the code we refactored the code ran for 0.2617188 seconds in the year 2017.
 ![2017 Refactored](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/VBA_Challenge_2017.png)
 
+When we ran the All Stocks Analysis for the module, the texbox displayed that the code ran for XXX seconds for the year 2018.
+
+When we ran the code we refactored the code ran for XXX seconds in the year 2018
+
+
 It is clear that the code we created is faster than the previous one. 
 ## Summary
 ### Advantages
