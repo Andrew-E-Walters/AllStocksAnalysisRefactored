@@ -37,7 +37,7 @@ When we ran the code we refactored the code ran for 0.1171875 seconds in the yea
 It is clear that the code we created is faster than the previous one. 
 
 ###Stocks Analysis
-![2017 Stocks]()
+![2017 Stocks](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/2017%20Stock%20Performance.png)
 ![2018 Stocks]()
 ## Summary
 ### Advantages
