@@ -42,6 +42,7 @@ On top of making the code faster we also created a code that displays this infor
 ![2017 Stocks](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/2017%20Stock%20Performance.png)
 #### The 2018 Performance had most stocks decreasing their value over the course of the year. 
 ![2018 Stocks](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/2018%20Stock%20Performance.png)
+
 This information could be sent to Steve and he would be able to tell what stocks he might want to invest in, and what he might want to stay away from in the upcoming years based on the 2017 and 2017 performance. 
 ## Summary
 ### Advantages
