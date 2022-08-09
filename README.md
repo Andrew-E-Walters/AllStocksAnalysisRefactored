@@ -36,7 +36,7 @@ When we ran the code we refactored the code ran for 0.1171875 seconds in the yea
 
 It is clear that the code we created is faster than the previous one. Not only that but we have also made some adjusments in formatting that allows us to clearly display the data in a way that is visually appealing. 
 
-###Stocks Analysis
+### Stocks Analysis
 On top of making the code faster we also created a code that displays this information in a simple way that someone not familiar with the topic could easily interprit. The addition of the conditional formatting to display the performance of the stock allows us to see what stocks had a good vs a bad retun for their respective years.
 ####The 2017 Performance had most stocks increasing their value over the course of the year. 
 ![2017 Stocks](https://github.com/Andrew-E-Walters/AllStocksAnalysisRefactored/blob/main/2017%20Stock%20Performance.png)
