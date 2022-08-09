@@ -35,6 +35,10 @@ When we ran the code we refactored the code ran for 0.1171875 seconds in the yea
 
 
 It is clear that the code we created is faster than the previous one. 
+
+###Stocks Analysis
+![2017 Stocks]()
+![2018 Stocks]()
 ## Summary
 ### Advantages
 As Stated earlier, the code that we created by refactoring the code was faster than what was created in the module. THis would allow us to run this code much faster over a larger set of data. This code was only looping over 2 to 3013 but if it was more than that it would take more time with the inital code. This code also has formatted text depending on the return of the stock which allows for a clearer visualization of the data. 
